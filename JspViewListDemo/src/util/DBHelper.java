@@ -46,6 +46,7 @@ public class DBHelper {
 		   {
 			   System.out.println("数据库连接正常！");
 		   }
+
 		   else
 		   {
 			   System.out.println("数据库连接异常！");
